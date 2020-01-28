@@ -7,12 +7,14 @@ public class DogYears {
       int humanYears;
 
       dogYears = scnr.nextInt();
+      scnr.close(); 
+      
       humanYears = 7 * dogYears;
 
       System.out.print("A ");
       System.out.print(dogYears);
       System.out.print(" year old dog is about a ");
       System.out.print(humanYears);
-      System.out.println(" year old human.");
+      System.out.println(" year old human.");     
    }
 }
