@@ -1,4 +1,4 @@
-import java.util.Scanner;
+Sysimport java.util.Scanner;
 
 public class MadLib{
     public static void main(String[] args) {
