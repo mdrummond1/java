@@ -45,6 +45,6 @@ public class PlayerPoints{
         System.out.println("Average points: " + sum / 5.0);
         System.out.println("Highest points: " + max);
 
-        
+        scnr.close();
     }
 }
