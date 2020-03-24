@@ -1,6 +1,11 @@
+/*Matthew Drummond
+  3/24/2020  
+Driver for Rectangle class to test calculatePerimeter and calculateArea
+  
+*/
 import java.util.Scanner;
 
-//call method in main and display results
+
 public class RectangleDemo {
    public static void main(String[] args) {
        Scanner scnr = new Scanner(System.in);

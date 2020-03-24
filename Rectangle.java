@@ -1,4 +1,5 @@
 /*Matthew Drummond
+  3/24/2020
   Rectangle Class that holds length and width of a rectangle object.
   Also calculates area and perimeter of that object*/
 
